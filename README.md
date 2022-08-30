@@ -11,7 +11,7 @@ To setup Git
 
 ````
 git config --global user.name "Name"
-git config --global user.email "vijaykumarbudatha7@gmail.com"
+git config --global user.email "Email"
 
 ````
 Git Commands
