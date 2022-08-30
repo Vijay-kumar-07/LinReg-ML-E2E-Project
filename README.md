@@ -14,3 +14,10 @@ git config --global user.name "Name"
 git config --global user.email "vijaykumarbudatha7@gmail.com"
 
 ````
+Git Commands
+``````
+git add .
+git status
+git commit -m "comment"
+git push origin main
+``````
